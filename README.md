@@ -1,6 +1,6 @@
 # Jogo_Genius
     - Jogo da Memória Estilo Genius
-    - Projeto da DIGITAL INOVATION ONE
+    - Projeto da DIGITAL INNOVATION ONE
 
 #### Interface do Jogo
     - 27/10/2021
